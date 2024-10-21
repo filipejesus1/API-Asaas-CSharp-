@@ -149,7 +149,7 @@ namespace Gestão_financeiro
                 Headers =
             {
                 { "accept", "application/json" },
-                { "access_token","$aact_YTU5YTE0M2M2N2I4MTliNzk0YTI5N2U5MzdjNWZmNDQ6OjAwMDAwMDAwMDAwMDAwNDA5OTE6OiRhYWNoXzBmYzNkODhlLTI2ZGMtNDk1OC04NTJjLWEyZTBjYjQxYzg2YQ==" },
+                { "access_token", accessToken },
                 { "User-Agent", user_agent}
             },
             };
